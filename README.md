@@ -1,7 +1,7 @@
 # Deep RL Arm Manipulation
 [//]: # (Image References)
 [image1]: ./images/nv_rl_stack_diagram.jpg
-[image2]: ./images/arm_collisionWatermarke.gif
+[image2]: ./images/arm_collisionWatermarked.gif
 [image3]: ./images/gripper_collisionWatermarked.gif
 [image4]: ./images/DQN-argmax.png
 [image5]: ./images/DQN-cartpole.png
