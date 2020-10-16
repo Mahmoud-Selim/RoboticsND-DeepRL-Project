@@ -11,6 +11,7 @@
 
 #define PI 3.141592653589793238462643383279502884197169f
 
+// Comment The following line to achieve object 1. If it's left defined, objective 2 (only the gripper-object) collision is considered a win.
 #define GRIPPER_ONLY
 
 #define JOINT_MIN    -0.75f
